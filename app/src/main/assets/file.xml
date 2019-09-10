@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<records>
+    <employee>
+        <name>Sachin Kumar</name>
+        <salary>500000</salary>
+    </employee>
+
+    <employee>
+        <name>Rahul Kumar</name>
+        <salary>400000</salary>
+    </employee>
+
+    <employee>
+        <name>John Wick</name>
+        <salary>90000000</salary>
+    </employee>
+
+</records>
